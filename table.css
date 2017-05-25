@@ -1,0 +1,9 @@
+table {text-align:left; width:100%}
+td, th {width:50%}
+th {font-size:2em;}
+td {font-size:1.5em;}
+.table {float:right; width:1.25in; height:1in}
+/*.col {width:31%; padding:0; border: 7px solid rgba(0,0,0,0)/*For hover higlight*//*; margin:calc((100% - (3 * 31%) - (6 * 7px))/6); float:left}*/
+.side {width:45%; height:4in; padding:0; margin:2.5%; color:white; overflow-y:scroll}
+.ex {height:5ex; overflow-y:scroll; -webkit-transition: height 2s; -moz-transition:height 2s; -o-transition:height 2s; /* Safari 3.1 to 6.0 */transition: height 2s;}
+.ex:hover {height:20ex}

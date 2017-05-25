@@ -1,0 +1,104 @@
+/*text*/
+    h1 {text-align:center; font-size:5em; font-family:"Lucida Console", Monaco, monospace}
+    h2 {text-align:center; font-size:4em}
+    h6 {text-align:right; font-size:2em}
+    p {text-align:left; font-size:2em}
+    
+/*img*/
+    h1 .img, h2 .img, h3 .img, h4 .img, h5 .img, h6 .img, p .img {height:2ex; width:auto}
+    img:not(.img):not(.table) {max-width:100%; width:100%; height:auto}
+    
+table {text-align:center}
+
+/*vew
+    vew+ (White)*/
+        #vew {background-color:rgb(255,255,255)}
+        #vew9 {background-color:rgb(255,255,255); background-color:rgba(255,255,255,0.9)}
+        #vew8 {background-color:rgb(255,255,255); background-color:rgba(255,255,255,0.8)}
+        #vew7 {background-color:rgb(255,255,255); background-color:rgba(255,255,255,0.7)}
+        #vew6 {background-color:rgb(255,255,255); background-color:rgba(255,255,255,0.6)}
+        #vew5 {background-color:rgb(255,255,255); background-color:rgba(255,255,255,0.5)}
+        #vew4 {background-color:rgb(255,255,255); background-color:rgba(255,255,255,0.4)}
+        #vew3 {background-color:rgb(255,255,255); background-color:rgba(255,255,255,0.3)}
+        #vew2 {background-color:rgb(255,255,255); background-color:rgba(255,255,255,0.2)}
+        #vew1 {background-color:rgb(255,255,255); background-color:rgba(255,255,255,0.1)}
+    /*vew- (Black)*/
+        #vew- {background-color:rgb(0,0,0)}
+        #vew-9 {background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.9)}
+        #vew-8 {background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.8)}
+        #vew-7 {background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.7)}
+        #vew-6 {background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.6)}
+        #vew-5 {background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.5)}
+        #vew-4 {background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.4)}
+        #vew-3 {background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.3)}
+        #vew-2 {background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.2)}
+        #vew-1 {background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.1)}
+    /*vewr (Red)*/
+        #vewr {background-color:rgb(255,0,0)}
+        #vewr9 {background-color:rgb(255,0,0); background-color:rgba(255,0,0,0.9)}
+        #vewr8 {background-color:rgb(255,0,0); background-color:rgba(255,0,0,0.8)}
+        #vewr7 {background-color:rgb(255,0,0); background-color:rgba(255,0,0,0.7)}
+        #vewr6 {background-color:rgb(255,0,0); background-color:rgba(255,0,0,0.6)}
+        #vewr5 {background-color:rgb(255,0,0); background-color:rgba(255,0,0,0.5)}
+        #vewr4 {background-color:rgb(255,0,0); background-color:rgba(255,0,0,0.4)}
+        #vewr3 {background-color:rgb(255,0,0); background-color:rgba(255,0,0,0.3)}
+        #vewr2 {background-color:rgb(255,0,0); background-color:rgba(255,0,0,0.2)}
+        #vewr1 {background-color:rgb(255,0,0); background-color:rgba(255,0,0,0.1)}
+    /*vewg (Green)*/
+        #vewg {background-color:rgb(0,255,0)}
+        #vewg9 {background-color:rgb(0,255,0); background-color:rgba(0,255,0,0.9)}
+        #vewg8 {background-color:rgb(0,255,0); background-color:rgba(0,255,0,0.8)}
+        #vewg7 {background-color:rgb(0,255,0); background-color:rgba(0,255,0,0.7)}
+        #vewg6 {background-color:rgb(0,255,0); background-color:rgba(0,255,0,0.6)}
+        #vewg5 {background-color:rgb(0,255,0); background-color:rgba(0,255,0,0.5)}
+        #vewg4 {background-color:rgb(0,255,0); background-color:rgba(0,255,0,0.4)}
+        #vewg3 {background-color:rgb(0,255,0); background-color:rgba(0,255,0,0.3)}
+        #vewg2 {background-color:rgb(0,255,0); background-color:rgba(0,255,0,0.2)}
+        #vewg1 {background-color:rgb(0,255,0); background-color:rgba(0,255,0,0.1)}
+    /*vewb (Blue)*/
+        #vewb {background-color:rgb(0,0,255)}
+        #vewb9 {background-color:rgb(0,0,255); background-color:rgba(0,0,255,0.9)}
+        #vewb8 {background-color:rgb(0,0,255); background-color:rgba(0,0,255,0.8)}
+        #vewb7 {background-color:rgb(0,0,255); background-color:rgba(0,0,255,0.7)}
+        #vewb6 {background-color:rgb(0,0,255); background-color:rgba(0,0,255,0.6)}
+        #vewb5 {background-color:rgb(0,0,255); background-color:rgba(0,0,255,0.5)}
+        #vewb4 {background-color:rgb(0,0,255); background-color:rgba(0,0,255,0.4)}
+        #vewb3 {background-color:rgb(0,0,255); background-color:rgba(0,0,255,0.3)}
+        #vewb2 {background-color:rgb(0,0,255); background-color:rgba(0,0,255,0.2)}
+        #vewb1 {background-color:rgb(0,0,255); background-color:rgba(0,0,255,0.1)}
+
+/*tooltip*/
+    #tooltip {position:relative; display:inline-block; border-bottom:1px dotted gray}
+    #tooltip #tooltiptext {visibility:hidden; width:120px; background-color:rgb(0,0,0); background-color:rgba(0,0,0,.8); color:#fff; text-align:center; padding:5px 0; border-radius:6px;/* Position*/ position:absolute; z-index:1}
+    #tooltip:hover #tooltiptext {visibility:visible}
+    
+#price {color:lime; font-size:4em; line-height:100%; font-family:Impact, Charcoal, sans-serif; text-align:center}
+
+/*
+Common
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+Sub Nav*/
+    header {background-color:blue; color:white; text-align:center; padding:0; width:100%; height:300px}
+        #ban {height:300px}
+        footer {background-color:blue; color:white; clear:both; text-align:right; padding:0; width:100%}
+
+/*
+Sub Nav
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+Nav
+*/
+/*Why is there a bar on some of the pages?!*/
+    nav {line-height:30px; background-color:rgb(0,0,0); background-color:rgba(0,0,0,.6);
+    /*Why is it brown not gray? B/c of F.lux*/
+    height:10%; width:100%; float:left; padding:0; text-align:center}
+        .but:hover {background-color:rgb(19,19,4); background-color:rgba(19,19,4,0.9); color:#a7d2dc; width:500px/*Expanded*/}
+        .but {width:350px/*Contracted*/; background-color:#a7d2dc; color:white; font-weight:bold; padding:10px; font-size:1.4em/*Font size*/; border:none; cursor:default; border-radius: 8px;
+                -webkit-transition: width 2s; -moz-transition:width 2s; -o-transition:width 2s; transition: width 2s}
+        .but {position:relative; display:inline-block; text-decoration:none}
+/*Why is this not removing the line under the button like it does with linked text?*/
+            .but:hover {background-color:lime; color:blue}
+/*Below does not work*/
+            .but:active {color:black}
+            .but:visited {color:red}

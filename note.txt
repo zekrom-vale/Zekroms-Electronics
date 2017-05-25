@@ -1,0 +1,13 @@
+<tr>
+                    <th>
+                          for <br/>
+                        <span id="price">$1.00</span><br/>
+<!---->
+                    </th>
+                    <td>
+                        <img src="" alt=""/>
+                    </td>
+                </tr>
+http://www.amazon.com/uxcell%C2%AE-Cathode-Segment-Display-Digital/dp/B00EZBGUMC/ref=pd_rhf_dp_s_cp_5?ie=UTF8&dpID=41hJBxOTVVL&dpSrc=sims&preST=_SL500_SR135%2C135_&refRID=18KM3874RSPCENQ5S074
+http://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Wires/dp/B005TZJ0AM/ref=pd_bxgy_147_img_2?ie=UTF8&refRID=0JX6Z59HQJGCZQ0CFE81
+http://www.amazon.com/dp/B00UAFQKMW?psc=1
